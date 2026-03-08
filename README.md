@@ -29,7 +29,7 @@ hotreload --root ./myproject --build "go build -o ./bin/server ./cmd/server" --e
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/hotreload
+git clone https://github.com/AdithyanKollon/hotreload
 cd hotreload
 
 # Build
