@@ -85,7 +85,7 @@ make demo
 ```
 
 Then:
-1. Open `http://localhost:8080` — you'll see `Hello from testserver v1 👋`
+1. Open `http://localhost:8080` — you'll see `Test Message `
 2. Edit `testserver/main.go` — change the `message` constant
 3. Save the file
 4. Within ~1 second, the server restarts with your new message
