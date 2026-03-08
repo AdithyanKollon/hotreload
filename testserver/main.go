@@ -12,7 +12,7 @@ import (
 )
 
 // ✏️  Edit this message and save the file to trigger a hot reload!
-const message = "Hello from testserver v1 👋"
+const message = "Test Message"
 
 const port = "8080"
 
